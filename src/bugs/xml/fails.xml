@@ -1,0 +1,747 @@
+<?xml version="1.1" encoding="utf-8"?><codelist id="S01" package="customs.nl.ags.import">
+<code id="AD" validFrom="19000101" validTo="99991231">
+<defaultDescription>ANDORRA</defaultDescription>
+</code>
+<code id="AE" validFrom="19000101" validTo="99991231">
+<defaultDescription>VERENIGDE ARABISCHE EMIRATEN</defaultDescription>
+</code>
+<code id="AF" validFrom="19000101" validTo="99991231">
+<defaultDescription>AFGHANISTAN</defaultDescription>
+</code>
+<code id="AG" validFrom="19000101" validTo="99991231">
+<defaultDescription>ANTIGUA EN BARBUDA</defaultDescription>
+</code>
+<code id="AI" validFrom="19000101" validTo="99991231">
+<defaultDescription>ANGUILLA</defaultDescription>
+</code>
+<code id="AL" validFrom="19000101" validTo="99991231">
+<defaultDescription>ALBANIE</defaultDescription>
+</code>
+<code id="AM" validFrom="19000101" validTo="99991231">
+<defaultDescription>ARMENIE</defaultDescription>
+</code>
+<code id="AO" validFrom="19000101" validTo="99991231">
+<defaultDescription>ANGOLA</defaultDescription>
+</code>
+<code id="AQ" validFrom="19000101" validTo="99991231">
+<defaultDescription>ANTARCTICA</defaultDescription>
+</code>
+<code id="AR" validFrom="19000101" validTo="99991231">
+<defaultDescription>ARGENTINIE</defaultDescription>
+</code>
+<code id="AS" validFrom="19000101" validTo="99991231">
+<defaultDescription>AMERIKAANS-SAMOA</defaultDescription>
+</code>
+<code id="AT" validFrom="19000101" validTo="99991231">
+<defaultDescription>OOSTENRIJK</defaultDescription>
+</code>
+<code id="AU" validFrom="19000101" validTo="99991231">
+<defaultDescription>AUSTRALIE</defaultDescription>
+</code>
+<code id="AW" validFrom="19000101" validTo="99991231">
+<defaultDescription>ARUBA</defaultDescription>
+</code>
+<code id="AZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>AZERBEIDZJAN</defaultDescription>
+</code>
+<code id="BA" validFrom="19000101" validTo="99991231">
+<defaultDescription>BOSNIE-HERZEGOVINA</defaultDescription>
+</code>
+<code id="BB" validFrom="19000101" validTo="99991231">
+<defaultDescription>BARBADOS</defaultDescription>
+</code>
+<code id="BD" validFrom="19000101" validTo="99991231">
+<defaultDescription>BANGLADESH</defaultDescription>
+</code>
+<code id="BE" validFrom="19000101" validTo="99991231">
+<defaultDescription>BELGIE</defaultDescription>
+</code>
+<code id="BF" validFrom="19000101" validTo="99991231">
+<defaultDescription>BURKINA FASO</defaultDescription>
+</code>
+<code id="BG" validFrom="19000101" validTo="99991231">
+<defaultDescription>BULGARIJE</defaultDescription>
+</code>
+<code id="BH" validFrom="19000101" validTo="99991231">
+<defaultDescription>BAHREIN</defaultDescription>
+</code>
+<code id="BI" validFrom="19000101" validTo="99991231">
+<defaultDescription>BOEROENDI</defaultDescription>
+</code>
+<code id="BJ" validFrom="19000101" validTo="99991231">
+<defaultDescription>BENIN</defaultDescription>
+</code>
+<code id="BL" validFrom="19000101" validTo="99991231">
+<defaultDescription>Sint-Bartholomeus</defaultDescription>
+</code>
+<code id="BM" validFrom="19000101" validTo="99991231">
+<defaultDescription>BERMUDA</defaultDescription>
+</code>
+<code id="BN" validFrom="19000101" validTo="99991231">
+<defaultDescription>BRUNEI DARUSSALAM</defaultDescription>
+</code>
+<code id="BO" validFrom="19000101" validTo="99991231">
+<defaultDescription>BOLIVIA</defaultDescription>
+</code>
+<code id="BQ" validFrom="19000101" validTo="99991231">
+<defaultDescription>Bonaire, Sint Eustatius en Saba</defaultDescription>
+</code>
+<code id="BR" validFrom="19000101" validTo="99991231">
+<defaultDescription>BRAZILIE</defaultDescription>
+</code>
+<code id="BS" validFrom="19000101" validTo="99991231">
+<defaultDescription>BAHAMA'S</defaultDescription>
+</code>
+<code id="BT" validFrom="19000101" validTo="99991231">
+<defaultDescription>BHUTAN</defaultDescription>
+</code>
+<code id="BV" validFrom="19000101" validTo="99991231">
+<defaultDescription>BOUVETEILAND</defaultDescription>
+</code>
+<code id="BW" validFrom="19000101" validTo="99991231">
+<defaultDescription>BOTSWANA</defaultDescription>
+</code>
+<code id="BY" validFrom="19000101" validTo="99991231">
+<defaultDescription>BELARUS</defaultDescription>
+</code>
+<code id="BZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>BELIZE</defaultDescription>
+</code>
+<code id="CA" validFrom="19000101" validTo="99991231">
+<defaultDescription>CANADA</defaultDescription>
+</code>
+<code id="CC" validFrom="19000101" validTo="99991231">
+<defaultDescription>COCOSEILANDEN (OF KEELINGEILANDEN)</defaultDescription>
+</code>
+<code id="CD" validFrom="19000101" validTo="99991231">
+<defaultDescription>CONGO, DEMOCRATISCHE REPUBLIEK</defaultDescription>
+</code>
+<code id="CF" validFrom="19000101" validTo="99991231">
+<defaultDescription>CENTRAAL-AFRIKAANSE REPUBLIEK</defaultDescription>
+</code>
+<code id="CG" validFrom="19000101" validTo="99991231">
+<defaultDescription>CONGO</defaultDescription>
+</code>
+<code id="CH" validFrom="19000101" validTo="99991231">
+<defaultDescription>ZWITSERLAND</defaultDescription>
+</code>
+<code id="CI" validFrom="19000101" validTo="99991231">
+<defaultDescription>IVOORKUST</defaultDescription>
+</code>
+<code id="CK" validFrom="19000101" validTo="99991231">
+<defaultDescription>COOKEILANDEN</defaultDescription>
+</code>
+<code id="CL" validFrom="19000101" validTo="99991231">
+<defaultDescription>CHILI</defaultDescription>
+</code>
+<code id="CM" validFrom="19000101" validTo="99991231">
+<defaultDescription>KAMEROEN</defaultDescription>
+</code>
+<code id="CN" validFrom="19000101" validTo="99991231">
+<defaultDescription>CHINA</defaultDescription>
+</code>
+<code id="CO" validFrom="19000101" validTo="99991231">
+<defaultDescription>COLOMBIA</defaultDescription>
+</code>
+<code id="CR" validFrom="19000101" validTo="99991231">
+<defaultDescription>COSTA RICA</defaultDescription>
+</code>
+<code id="CU" validFrom="19000101" validTo="99991231">
+<defaultDescription>CUBA</defaultDescription>
+</code>
+<code id="CV" validFrom="19000101" validTo="99991231">
+<defaultDescription>KAAPVERDIE</defaultDescription>
+</code>
+<code id="CW" validFrom="19000101" validTo="99991231">
+<defaultDescription>Curacao</defaultDescription>
+</code>
+<code id="CX" validFrom="19000101" validTo="99991231">
+<defaultDescription>CHRISTMASEILAND</defaultDescription>
+</code>
+<code id="CY" validFrom="19000101" validTo="99991231">
+<defaultDescription>CYPRUS</defaultDescription>
+</code>
+<code id="CZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>TSJECHIE</defaultDescription>
+</code>
+<code id="DE" validFrom="19000101" validTo="99991231">
+<defaultDescription>DUITSLAND</defaultDescription>
+</code>
+<code id="DJ" validFrom="19000101" validTo="99991231">
+<defaultDescription>DIJBOUTI</defaultDescription>
+</code>
+<code id="DK" validFrom="19000101" validTo="99991231">
+<defaultDescription>DENEMARKEN</defaultDescription>
+</code>
+<code id="DM" validFrom="19000101" validTo="99991231">
+<defaultDescription>DOMINICA</defaultDescription>
+</code>
+<code id="DO" validFrom="19000101" validTo="99991231">
+<defaultDescription>DOMINICAANSE REPUBLIEK</defaultDescription>
+</code>
+<code id="DZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>ALGERIJE</defaultDescription>
+</code>
+<code id="EC" validFrom="19000101" validTo="99991231">
+<defaultDescription>ECUADOR</defaultDescription>
+</code>
+<code id="EE" validFrom="19000101" validTo="99991231">
+<defaultDescription>ESTLAND</defaultDescription>
+</code>
+<code id="EG" validFrom="19000101" validTo="99991231">
+<defaultDescription>EGYPTE</defaultDescription>
+</code>
+<code id="EH" validFrom="19000101" validTo="99991231">
+<defaultDescription>Westelijke Sahara</defaultDescription>
+</code>
+<code id="ER" validFrom="19000101" validTo="99991231">
+<defaultDescription>ERITREA</defaultDescription>
+</code>
+<code id="ES" validFrom="19000101" validTo="99991231">
+<defaultDescription>SPANJE</defaultDescription>
+</code>
+<code id="ET" validFrom="19000101" validTo="99991231">
+<defaultDescription>ETHIOPIE</defaultDescription>
+</code>
+<code id="EU" validFrom="19000101" validTo="99991231">
+<defaultDescription>EUROPESE GEMEENSCHAP</defaultDescription>
+</code>
+<code id="FI" validFrom="19000101" validTo="99991231">
+<defaultDescription>FINLAND</defaultDescription>
+</code>
+<code id="FJ" validFrom="19000101" validTo="99991231">
+<defaultDescription>FIJI</defaultDescription>
+</code>
+<code id="FK" validFrom="19000101" validTo="99991231">
+<defaultDescription>FALKLANDEILANDEN</defaultDescription>
+</code>
+<code id="FM" validFrom="19000101" validTo="99991231">
+<defaultDescription>MICRONESIA</defaultDescription>
+</code>
+<code id="FO" validFrom="19000101" validTo="99991231">
+<defaultDescription>FAEROER</defaultDescription>
+</code>
+<code id="FR" validFrom="19000101" validTo="99991231">
+<defaultDescription>FRANKRIJK</defaultDescription>
+</code>
+<code id="GA" validFrom="19000101" validTo="99991231">
+<defaultDescription>GABON</defaultDescription>
+</code>
+<code id="GB" validFrom="19000101" validTo="99991231">
+<defaultDescription>VERENIGD KONINKRIJK</defaultDescription>
+</code>
+<code id="GD" validFrom="19000101" validTo="99991231">
+<defaultDescription>GRENADA</defaultDescription>
+</code>
+<code id="GE" validFrom="19000101" validTo="99991231">
+<defaultDescription>GEORGIE</defaultDescription>
+</code>
+<code id="GH" validFrom="19000101" validTo="99991231">
+<defaultDescription>GHANA</defaultDescription>
+</code>
+<code id="GI" validFrom="19000101" validTo="99991231">
+<defaultDescription>GIBRALTAR</defaultDescription>
+</code>
+<code id="GL" validFrom="19000101" validTo="99991231">
+<defaultDescription>GROENLAND</defaultDescription>
+</code>
+<code id="GM" validFrom="19000101" validTo="99991231">
+<defaultDescription>GAMBIA</defaultDescription>
+</code>
+<code id="GN" validFrom="19000101" validTo="99991231">
+<defaultDescription>GUINEE</defaultDescription>
+</code>
+<code id="GQ" validFrom="19000101" validTo="99991231">
+<defaultDescription>EQUATORIAAL-GUINEA</defaultDescription>
+</code>
+<code id="GR" validFrom="19000101" validTo="99991231">
+<defaultDescription>GRIEKENLAND</defaultDescription>
+</code>
+<code id="GS" validFrom="19000101" validTo="99991231">
+<defaultDescription>ZUID-GEORGIE EN DE ZUID-SANDWICHEILANDEN</defaultDescription>
+</code>
+<code id="GT" validFrom="19000101" validTo="99991231">
+<defaultDescription>GUATEMALA</defaultDescription>
+</code>
+<code id="GU" validFrom="19000101" validTo="99991231">
+<defaultDescription>GUAM</defaultDescription>
+</code>
+<code id="GW" validFrom="19000101" validTo="99991231">
+<defaultDescription>GUINEE-BISSAU</defaultDescription>
+</code>
+<code id="GY" validFrom="19000101" validTo="99991231">
+<defaultDescription>GUYANA</defaultDescription>
+</code>
+<code id="HK" validFrom="19000101" validTo="99991231">
+<defaultDescription>HONGKONG</defaultDescription>
+</code>
+<code id="HM" validFrom="19000101" validTo="99991231">
+<defaultDescription>HEARD-EN MCDONALDEILANDEN</defaultDescription>
+</code>
+<code id="HN" validFrom="19000101" validTo="99991231">
+<defaultDescription>HONDURAS</defaultDescription>
+</code>
+<code id="HR" validFrom="19000101" validTo="99991231">
+<defaultDescription>KROATIE</defaultDescription>
+</code>
+<code id="HT" validFrom="19000101" validTo="99991231">
+<defaultDescription>HAITI</defaultDescription>
+</code>
+<code id="HU" validFrom="19000101" validTo="99991231">
+<defaultDescription>HONGARIJE</defaultDescription>
+</code>
+<code id="ID" validFrom="19000101" validTo="99991231">
+<defaultDescription>INDONESIE</defaultDescription>
+</code>
+<code id="IE" validFrom="19000101" validTo="99991231">
+<defaultDescription>IERLAND</defaultDescription>
+</code>
+<code id="IL" validFrom="19000101" validTo="99991231">
+<defaultDescription>ISRAEL</defaultDescription>
+</code>
+<code id="IN" validFrom="19000101" validTo="99991231">
+<defaultDescription>INDIA</defaultDescription>
+</code>
+<code id="IO" validFrom="19000101" validTo="99991231">
+<defaultDescription>BRITS GEBIED IN DE INDISCHE OCEAAN</defaultDescription>
+</code>
+<code id="IQ" validFrom="19000101" validTo="99991231">
+<defaultDescription>IRAK</defaultDescription>
+</code>
+<code id="IR" validFrom="19000101" validTo="99991231">
+<defaultDescription>IRAN</defaultDescription>
+</code>
+<code id="IS" validFrom="19000101" validTo="99991231">
+<defaultDescription>IJSLAND</defaultDescription>
+</code>
+<code id="IT" validFrom="19000101" validTo="99991231">
+<defaultDescription>ITALIE</defaultDescription>
+</code>
+<code id="JM" validFrom="19000101" validTo="99991231">
+<defaultDescription>JAMAICA</defaultDescription>
+</code>
+<code id="JO" validFrom="19000101" validTo="99991231">
+<defaultDescription>JORDANIE</defaultDescription>
+</code>
+<code id="JP" validFrom="19000101" validTo="99991231">
+<defaultDescription>JAPAN</defaultDescription>
+</code>
+<code id="KE" validFrom="19000101" validTo="99991231">
+<defaultDescription>KENIA</defaultDescription>
+</code>
+<code id="KG" validFrom="19000101" validTo="99991231">
+<defaultDescription>KIRGIZIE</defaultDescription>
+</code>
+<code id="KH" validFrom="19000101" validTo="99991231">
+<defaultDescription>CAMBODJA</defaultDescription>
+</code>
+<code id="KI" validFrom="19000101" validTo="99991231">
+<defaultDescription>KIRIBATI</defaultDescription>
+</code>
+<code id="KM" validFrom="19000101" validTo="99991231">
+<defaultDescription>COMOREN</defaultDescription>
+</code>
+<code id="KN" validFrom="19000101" validTo="99991231">
+<defaultDescription>SAINT KITTS EN NEVIS</defaultDescription>
+</code>
+<code id="KP" validFrom="19000101" validTo="99991231">
+<defaultDescription>NOORD-KOREA</defaultDescription>
+</code>
+<code id="KR" validFrom="19000101" validTo="99991231">
+<defaultDescription>ZUID-KOREA</defaultDescription>
+</code>
+<code id="KW" validFrom="19000101" validTo="99991231">
+<defaultDescription>KOEWEIT</defaultDescription>
+</code>
+<code id="KY" validFrom="19000101" validTo="99991231">
+<defaultDescription>CAYMANEILANDEN</defaultDescription>
+</code>
+<code id="KZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>KAZACHSTAN</defaultDescription>
+</code>
+<code id="LA" validFrom="19000101" validTo="99991231">
+<defaultDescription>LAOS</defaultDescription>
+</code>
+<code id="LB" validFrom="19000101" validTo="99991231">
+<defaultDescription>LIBANON</defaultDescription>
+</code>
+<code id="LC" validFrom="19000101" validTo="99991231">
+<defaultDescription>SAINT LUCIA</defaultDescription>
+</code>
+<code id="LI" validFrom="19000101" validTo="99991231">
+<defaultDescription>LIECHTENSTEIN</defaultDescription>
+</code>
+<code id="LK" validFrom="19000101" validTo="99991231">
+<defaultDescription>SRI LANKA</defaultDescription>
+</code>
+<code id="LR" validFrom="19000101" validTo="99991231">
+<defaultDescription>LIBERIA</defaultDescription>
+</code>
+<code id="LS" validFrom="19000101" validTo="99991231">
+<defaultDescription>LESOTHO</defaultDescription>
+</code>
+<code id="LT" validFrom="19000101" validTo="99991231">
+<defaultDescription>LITOUWEN</defaultDescription>
+</code>
+<code id="LU" validFrom="19000101" validTo="99991231">
+<defaultDescription>LUXEMBURG</defaultDescription>
+</code>
+<code id="LV" validFrom="19000101" validTo="99991231">
+<defaultDescription>LETLAND</defaultDescription>
+</code>
+<code id="LY" validFrom="19000101" validTo="99991231">
+<defaultDescription>LYBIE</defaultDescription>
+</code>
+<code id="MA" validFrom="19000101" validTo="99991231">
+<defaultDescription>MAROKKO</defaultDescription>
+</code>
+<code id="MD" validFrom="19000101" validTo="99991231">
+<defaultDescription>MOLDAVIE</defaultDescription>
+</code>
+<code id="ME" validFrom="19000101" validTo="99991231">
+<defaultDescription>MONTENEGRO</defaultDescription>
+</code>
+<code id="MG" validFrom="19000101" validTo="99991231">
+<defaultDescription>MADAGASKAR</defaultDescription>
+</code>
+<code id="MH" validFrom="19000101" validTo="99991231">
+<defaultDescription>MARSHALLEILANDEN</defaultDescription>
+</code>
+<code id="MK" validFrom="19000101" validTo="99991231">
+<defaultDescription>VOORMALIGE JOEGOSLAVISCHE REPUBLIEK MACEDONIE</defaultDescription>
+</code>
+<code id="ML" validFrom="19000101" validTo="99991231">
+<defaultDescription>MALI</defaultDescription>
+</code>
+<code id="MM" validFrom="19000101" validTo="99991231">
+<defaultDescription>MYANMAR</defaultDescription>
+</code>
+<code id="MN" validFrom="19000101" validTo="99991231">
+<defaultDescription>MONGOLIE</defaultDescription>
+</code>
+<code id="MO" validFrom="19000101" validTo="99991231">
+<defaultDescription>MACAU</defaultDescription>
+</code>
+<code id="MP" validFrom="19000101" validTo="99991231">
+<defaultDescription>NOORDELIJKE MARIANEN</defaultDescription>
+</code>
+<code id="MR" validFrom="19000101" validTo="99991231">
+<defaultDescription>MAURITANIE</defaultDescription>
+</code>
+<code id="MS" validFrom="19000101" validTo="99991231">
+<defaultDescription>MONTSERRAT</defaultDescription>
+</code>
+<code id="MT" validFrom="19000101" validTo="99991231">
+<defaultDescription>MALTA</defaultDescription>
+</code>
+<code id="MU" validFrom="19000101" validTo="99991231">
+<defaultDescription>MAURITIUS</defaultDescription>
+</code>
+<code id="MV" validFrom="19000101" validTo="99991231">
+<defaultDescription>MALDIVEN</defaultDescription>
+</code>
+<code id="MW" validFrom="19000101" validTo="99991231">
+<defaultDescription>MALAWI</defaultDescription>
+</code>
+<code id="MX" validFrom="19000101" validTo="99991231">
+<defaultDescription>MEXICO</defaultDescription>
+</code>
+<code id="MY" validFrom="19000101" validTo="99991231">
+<defaultDescription>MALEISIE</defaultDescription>
+</code>
+<code id="MZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>MOZAMBIQUE</defaultDescription>
+</code>
+<code id="NA" validFrom="19000101" validTo="99991231">
+<defaultDescription>NAMIBIE</defaultDescription>
+</code>
+<code id="NC" validFrom="19000101" validTo="99991231">
+<defaultDescription>NIEUW-CALEDONIE</defaultDescription>
+</code>
+<code id="NE" validFrom="19000101" validTo="99991231">
+<defaultDescription>NIGER</defaultDescription>
+</code>
+<code id="NF" validFrom="19000101" validTo="99991231">
+<defaultDescription>NORFOLK</defaultDescription>
+</code>
+<code id="NG" validFrom="19000101" validTo="99991231">
+<defaultDescription>NIGERIA</defaultDescription>
+</code>
+<code id="NI" validFrom="19000101" validTo="99991231">
+<defaultDescription>NICARAGUA</defaultDescription>
+</code>
+<code id="NL" validFrom="19000101" validTo="99991231">
+<defaultDescription>NEDERLAND</defaultDescription>
+</code>
+<code id="NO" validFrom="19000101" validTo="99991231">
+<defaultDescription>NOORWEGEN</defaultDescription>
+</code>
+<code id="NP" validFrom="19000101" validTo="99991231">
+<defaultDescription>NEPAL</defaultDescription>
+</code>
+<code id="NR" validFrom="19000101" validTo="99991231">
+<defaultDescription>NAURU</defaultDescription>
+</code>
+<code id="NU" validFrom="19000101" validTo="99991231">
+<defaultDescription>NIUE</defaultDescription>
+</code>
+<code id="NZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>NIEUW-ZEELAND</defaultDescription>
+</code>
+<code id="OM" validFrom="19000101" validTo="99991231">
+<defaultDescription>OMAN</defaultDescription>
+</code>
+<code id="PA" validFrom="19000101" validTo="99991231">
+<defaultDescription>PANAMA</defaultDescription>
+</code>
+<code id="PE" validFrom="19000101" validTo="99991231">
+<defaultDescription>PERU</defaultDescription>
+</code>
+<code id="PF" validFrom="19000101" validTo="99991231">
+<defaultDescription>FRANS-POLYNESIE</defaultDescription>
+</code>
+<code id="PG" validFrom="19000101" validTo="99991231">
+<defaultDescription>PAPOEA-NIEUW-GUINEA</defaultDescription>
+</code>
+<code id="PH" validFrom="19000101" validTo="99991231">
+<defaultDescription>FILIPIJNEN</defaultDescription>
+</code>
+<code id="PK" validFrom="19000101" validTo="99991231">
+<defaultDescription>PAKISTAN</defaultDescription>
+</code>
+<code id="PL" validFrom="19000101" validTo="99991231">
+<defaultDescription>POLEN</defaultDescription>
+</code>
+<code id="PM" validFrom="19000101" validTo="99991231">
+<defaultDescription>SAINT-PIERRE EN MIQUELON</defaultDescription>
+</code>
+<code id="PN" validFrom="19000101" validTo="99991231">
+<defaultDescription>PITCAIRNEILANDEN</defaultDescription>
+</code>
+<code id="PS" validFrom="19000101" validTo="99991231">
+<defaultDescription>BEZETTE PALESTIJNSE GEBIEDEN</defaultDescription>
+</code>
+<code id="PT" validFrom="19000101" validTo="99991231">
+<defaultDescription>PORTUGAL</defaultDescription>
+</code>
+<code id="PW" validFrom="19000101" validTo="99991231">
+<defaultDescription>PALAU</defaultDescription>
+</code>
+<code id="PY" validFrom="19000101" validTo="99991231">
+<defaultDescription>PARAGUAY</defaultDescription>
+</code>
+<code id="QA" validFrom="19000101" validTo="99991231">
+<defaultDescription>QATAR</defaultDescription>
+</code>
+<code id="QP" validFrom="19000101" validTo="99991231">
+<defaultDescription>Zeegebied buiten de territoriale wateren.</defaultDescription>
+</code>
+<code id="QU" validFrom="19000101" validTo="99991231">
+<defaultDescription>NIET NADER BEPAALDE LANDEN EN GEBIEDEN</defaultDescription>
+</code>
+<code id="QV" validFrom="19000101" validTo="99991231">
+<defaultDescription>NIET NADER BEP. LANDEN IHK INTRACOMM. HANDELSVERKEER</defaultDescription>
+</code>
+<code id="QW" validFrom="19000101" validTo="99991231">
+<defaultDescription>NIET NADER BEP. LANDEN IHK HANDELSVERKEER 3E LANDEN</defaultDescription>
+</code>
+<code id="QX" validFrom="19000101" validTo="99991231">
+<defaultDescription>OM COMMERCIELE OF MILITAIRE REDENEN NT NADER AANG LANDEN/GEB</defaultDescription>
+</code>
+<code id="QY" validFrom="19000101" validTo="99991231">
+<defaultDescription>MILITAIRE LEVERING NNB IHK INTRACOMM. HANDELSVERKEER</defaultDescription>
+</code>
+<code id="QZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>MILITAIRE LEVERING NNB IHK HANDELSVERKEER 3E LANDEN</defaultDescription>
+</code>
+<code id="RO" validFrom="19000101" validTo="99991231">
+<defaultDescription>ROEMENIE</defaultDescription>
+</code>
+<code id="RU" validFrom="19000101" validTo="99991231">
+<defaultDescription>RUSLAND</defaultDescription>
+</code>
+<code id="RW" validFrom="19000101" validTo="99991231">
+<defaultDescription>RWANDA</defaultDescription>
+</code>
+<code id="SA" validFrom="19000101" validTo="99991231">
+<defaultDescription>SAOEDI-ARABIE</defaultDescription>
+</code>
+<code id="SB" validFrom="19000101" validTo="99991231">
+<defaultDescription>SALOMONSEILANDEN</defaultDescription>
+</code>
+<code id="SC" validFrom="19000101" validTo="99991231">
+<defaultDescription>SEYCHELLEN</defaultDescription>
+</code>
+<code id="SD" validFrom="19000101" validTo="99991231">
+<defaultDescription>SOEDAN</defaultDescription>
+</code>
+<code id="SE" validFrom="19000101" validTo="99991231">
+<defaultDescription>ZWEDEN</defaultDescription>
+</code>
+<code id="SG" validFrom="19000101" validTo="99991231">
+<defaultDescription>SINGAPORE</defaultDescription>
+</code>
+<code id="SH" validFrom="19000101" validTo="99991231">
+<defaultDescription>ST. HELENA</defaultDescription>
+</code>
+<code id="SI" validFrom="19000101" validTo="99991231">
+<defaultDescription>SLOVENIE</defaultDescription>
+</code>
+<code id="SK" validFrom="19000101" validTo="99991231">
+<defaultDescription>SLOWAKIJE</defaultDescription>
+</code>
+<code id="SL" validFrom="19000101" validTo="99991231">
+<defaultDescription>SIERRA LEONE</defaultDescription>
+</code>
+<code id="SM" validFrom="19000101" validTo="99991231">
+<defaultDescription>SAN MARINO</defaultDescription>
+</code>
+<code id="SN" validFrom="19000101" validTo="99991231">
+<defaultDescription>SENEGAL</defaultDescription>
+</code>
+<code id="SO" validFrom="19000101" validTo="99991231">
+<defaultDescription>SOMALIE</defaultDescription>
+</code>
+<code id="SR" validFrom="19000101" validTo="99991231">
+<defaultDescription>SURINAME</defaultDescription>
+</code>
+<code id="SS" validFrom="19000101" validTo="99991231">
+<defaultDescription>Zuid Sudan</defaultDescription>
+</code>
+<code id="ST" validFrom="19000101" validTo="99991231">
+<defaultDescription>SAO TOME EN PRINCIPE</defaultDescription>
+</code>
+<code id="SV" validFrom="19000101" validTo="99991231">
+<defaultDescription>EL SALVADOR</defaultDescription>
+</code>
+<code id="SX" validFrom="19000101" validTo="99991231">
+<defaultDescription>Sint Maarten (Nederlands deel)</defaultDescription>
+</code>
+<code id="SY" validFrom="19000101" validTo="99991231">
+<defaultDescription>SYRIE</defaultDescription>
+</code>
+<code id="SZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>SWAZILAND</defaultDescription>
+</code>
+<code id="TC" validFrom="19000101" validTo="99991231">
+<defaultDescription>TURKS-EN CAICOSEILANDEN</defaultDescription>
+</code>
+<code id="TD" validFrom="19000101" validTo="99991231">
+<defaultDescription>TSJAAD</defaultDescription>
+</code>
+<code id="TF" validFrom="19000101" validTo="99991231">
+<defaultDescription>FRANSE ZUIDELIJKE GEBIEDEN</defaultDescription>
+</code>
+<code id="TG" validFrom="19000101" validTo="99991231">
+<defaultDescription>TOGO</defaultDescription>
+</code>
+<code id="TH" validFrom="19000101" validTo="99991231">
+<defaultDescription>THAILAND</defaultDescription>
+</code>
+<code id="TJ" validFrom="19000101" validTo="99991231">
+<defaultDescription>TADZJIKISTAN</defaultDescription>
+</code>
+<code id="TK" validFrom="19000101" validTo="99991231">
+<defaultDescription>TOKELAU-EILANDEN</defaultDescription>
+</code>
+<code id="TL" validFrom="19000101" validTo="99991231">
+<defaultDescription>TIMOR-LESTE</defaultDescription>
+</code>
+<code id="TM" validFrom="19000101" validTo="99991231">
+<defaultDescription>TURKMENISTAN</defaultDescription>
+</code>
+<code id="TN" validFrom="19000101" validTo="99991231">
+<defaultDescription>TUNESIE</defaultDescription>
+</code>
+<code id="TO" validFrom="19000101" validTo="99991231">
+<defaultDescription>TONGA</defaultDescription>
+</code>
+<code id="TR" validFrom="19000101" validTo="99991231">
+<defaultDescription>TURKIJE</defaultDescription>
+</code>
+<code id="TT" validFrom="19000101" validTo="99991231">
+<defaultDescription>TRINIDAD EN TOBAGO</defaultDescription>
+</code>
+<code id="TV" validFrom="19000101" validTo="99991231">
+<defaultDescription>TUVALU</defaultDescription>
+</code>
+<code id="TW" validFrom="19000101" validTo="99991231">
+<defaultDescription>TAIWAN</defaultDescription>
+</code>
+<code id="TZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>TANZANIA</defaultDescription>
+</code>
+<code id="UA" validFrom="19000101" validTo="99991231">
+<defaultDescription>OEKRAINE</defaultDescription>
+</code>
+<code id="UG" validFrom="19000101" validTo="99991231">
+<defaultDescription>OEGANDA</defaultDescription>
+</code>
+<code id="UM" validFrom="19000101" validTo="99991231">
+<defaultDescription>VERAFGELEGEN EILANDJES VAN DE VERENIGDE STATEN</defaultDescription>
+</code>
+<code id="US" validFrom="19000101" validTo="99991231">
+<defaultDescription>VERENIGDE STATEN</defaultDescription>
+</code>
+<code id="UY" validFrom="19000101" validTo="99991231">
+<defaultDescription>URUGUAY</defaultDescription>
+</code>
+<code id="UZ" validFrom="19000101" validTo="99991231">
+<defaultDescription>OEZBEKISTAN</defaultDescription>
+</code>
+<code id="VA" validFrom="19000101" validTo="99991231">
+<defaultDescription>HEILIGE STOEL (VATICAANSTAD)</defaultDescription>
+</code>
+<code id="VC" validFrom="19000101" validTo="99991231">
+<defaultDescription>SAINT VINCENT EN DE GRENADINES</defaultDescription>
+</code>
+<code id="VE" validFrom="19000101" validTo="99991231">
+<defaultDescription>VENEZUELA</defaultDescription>
+</code>
+<code id="VG" validFrom="19000101" validTo="99991231">
+<defaultDescription>BRITSE MAAGDENEILANDEN</defaultDescription>
+</code>
+<code id="VI" validFrom="19000101" validTo="99991231">
+<defaultDescription>AMERIKAANSE MAAGDENEILANDEN</defaultDescription>
+</code>
+<code id="VN" validFrom="19000101" validTo="99991231">
+<defaultDescription>VIETNAM</defaultDescription>
+</code>
+<code id="VU" validFrom="19000101" validTo="99991231">
+<defaultDescription>VANUATU</defaultDescription>
+</code>
+<code id="WF" validFrom="19000101" validTo="99991231">
+<defaultDescription>WALLIS EN FUTUNA</defaultDescription>
+</code>
+<code id="WS" validFrom="19000101" validTo="99991231">
+<defaultDescription>SAMOA</defaultDescription>
+</code>
+<code id="XC" validFrom="19000101" validTo="99991231">
+<defaultDescription>CEUTA</defaultDescription>
+</code>
+<code id="XK" validFrom="19000101" validTo="99991231">
+<defaultDescription>KOSOVO</defaultDescription>
+</code>
+<code id="XL" validFrom="19000101" validTo="99991231">
+<defaultDescription>MELILLA</defaultDescription>
+</code>
+<code id="XS" validFrom="19000101" validTo="99991231">
+<defaultDescription>SERVIE</defaultDescription>
+</code>
+<code id="YE" validFrom="19000101" validTo="99991231">
+<defaultDescription>JEMEN</defaultDescription>
+</code>
+<code id="YT" validFrom="19000101" validTo="99991231">
+<defaultDescription>MAYOTTE</defaultDescription>
+</code>
+<code id="ZA" validFrom="19000101" validTo="99991231">
+<defaultDescription>ZUID-AFRIKA</defaultDescription>
+</code>
+<code id="ZM" validFrom="19000101" validTo="99991231">
+<defaultDescription>ZAMBIA</defaultDescription>
+</code>
+<code id="ZW" validFrom="19000101" validTo="99991231">
+<defaultDescription>ZIMBABWE</defaultDescription>
+</code>
+</codelist>
+
