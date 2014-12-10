@@ -12,10 +12,19 @@ import javax.xml.parsers.SAXParserFactory;
 public class Test {
 
     public static void main(String[] args) throws Exception {
-        InputStream in = Test.class.getResourceAsStream("fails.xml");
-        SAXParserFactory factory = SAXParserFactory.newInstance();
-        SAXParser saxParser = factory.newSAXParser();
-        saxParser.parse(in, new MyHandler());
+        System.out.println(System.getProperty("java.version"));
+        InputStream in = null;
+        try {
+            in = Test.class.getResourceAsStream("fails.xml");
+            SAXParserFactory factory = SAXParserFactory.newInstance();
+            SAXParser saxParser = factory.newSAXParser();
+            saxParser.parse(in, new MyHandler());
+            System.out.println("Bug is not present.");
+        } finally {
+            if (in != null) {
+                in.close();
+            }
+        }
     }
 
 }
